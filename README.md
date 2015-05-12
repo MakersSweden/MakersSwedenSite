@@ -1,4 +1,4 @@
-# Ronin Sverige #
+# Makers Academy Sweden #
 
-Presentation av den svenska versionen av Ronin projektet.
+Presentation av den svenska versionen av Makers Academy.
 
